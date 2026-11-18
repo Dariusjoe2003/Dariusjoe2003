@@ -4,195 +4,166 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=190&color=0:263746,50:426477,100:6B9A9A&text=DARIUS%20JOE&fontColor=FFFFFF&fontSize=50&fontAlignY=40&desc=SOFTWARE%20DEVELOPER%20%7C%20WEB%20DEVELOPMENT%20%7C%20FLUTTER%20%26%20PYTHON&descAlignY=65&descSize=15&descColor=EAF2F5" width="100%" alt="Darius Joe banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1B263B,50:3A5A78,100:528B9A&text=DARIUS%20JOE&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=SOFTWARE%20DEVELOPER%20%7C%20FLUTTER%20%26%20PYTHON%20%7C%20WEB&descAlignY=60&descSize=15&descColor=E0E1DD" width="100%" alt="Darius Joe header banner"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=900&color=3A5A78&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Darius+Joe;Building+Cross-Platform+Apps+with+Flutter;Developing+Solutions+with+Python+%26+Web+Tech;Turning+Ideas+Into+Functional+Code" alt="Animated typing introduction"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2500&pause=900&color=426477&center=true&vCenter=true&width=700&lines=Software+Developer;Flutter+Application+Developer;Python+and+Web+Development;Turning+Ideas+Into+Functional+Applications;Always+Learning+and+Building" alt="Animated introduction"/>
-
-<br/><br/>
-
 <a href="https://www.linkedin.com/in/darius-joe-a43867293">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-2867B2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://dariusjoe2003.github.io/PORTFOLIO/">
-<img src="https://img.shields.io/badge/Portfolio-Explore-426477?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-3A5A78?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 <a href="mailto:dariusjoe9495@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-526575?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-528B9A?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Dariusjoe2003&label=PROFILE+VIEWS&color=426477&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Dariusjoe2003&label=PROFILE+VIEWS&color=3A5A78&style=for-the-badge"/>
 
 </div>
 
 ---
 
-<h2 align="center">ABOUT ME</h2>
+<h2 align="center">👨‍💻 ABOUT ME</h2>
 
-I'm **Darius Joe**, a passionate developer interested in software development, web technologies, and building practical applications.
+Hello! I'm **Darius Joe**, a passionate developer focused on software development, web technologies, and crafting practical, user-friendly applications.
 
-I enjoy turning ideas into functional applications through code, exploring new technologies, and developing user-friendly solutions. My development experience spans cross-platform mobile development, web technologies, and Python programming.
+I enjoy turning ideas into functional applications through clean code, exploring modern frameworks, and continuously sharpening my problem-solving skills through hands-on projects.
 
-- 💻 Interested in software development and application development
-- 🚀 Enjoy building real-world projects and exploring new technologies
-- 📱 Hands-on experience with Flutter and Dart
-- 🔥 Experience working with Firebase Firestore for data management
-- 🐍 Programming experience in Python and JavaScript
-- 🌐 Familiar with HTML5 and CSS3
-- 🧠 Continuously improving programming and problem-solving skills
-- 🎯 Focused on developing functional, user-friendly applications
+- 💻 Focused on **software and cross-platform application development**
+- 📱 Hands-on experience building mobile apps with **Flutter & Dart**
+- 🔥 Experience managing cloud data with **Firebase Firestore**
+- 🐍 Programming in **Python** and **JavaScript** alongside **HTML5 & CSS3**
+- 🚀 Always learning, experimenting with new tools, and building real-world solutions
 
 ---
 
-<h2 align="center">TECHNICAL SKILLS</h2>
+<h2 align="center">🛠️ TECHNICAL SKILLS</h2>
 
-Technologies, frameworks, and tools I have worked with during my learning and development journey.
+<div align="center">
 
-**Programming Languages**
+**Languages & Web**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,dart,js&theme=light" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=python,dart,js,html,css&theme=dark" alt="Languages and web technologies"/>
 </p>
 
-**Web Technologies**
+**Frameworks, Databases & Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css&theme=light" alt="Web technologies"/>
-</p>
-
-**Frameworks and Platforms**
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,firebase&theme=light" alt="Frameworks and platforms"/>
-</p>
-
-**Development Tools**
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=light" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=flutter,firebase,git,github,vscode&theme=dark" alt="Frameworks and development tools"/>
 </p>
 
 **Core Concepts**
 
 <p>
-<img src="https://img.shields.io/badge/Object_Oriented_Programming-426477?style=flat-square"/>
-<img src="https://img.shields.io/badge/Data_Structures-426477?style=flat-square"/>
-<img src="https://img.shields.io/badge/Problem_Solving-426477?style=flat-square"/>
-<img src="https://img.shields.io/badge/Database_Management-426477?style=flat-square"/>
-<img src="https://img.shields.io/badge/Responsive_Design-426477?style=flat-square"/>
+<img src="https://img.shields.io/badge/Object_Oriented_Programming-1B263B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data_Structures-3A5A78?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Problem_Solving-528B9A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database_Management-3A5A78?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive_Design-1B263B?style=for-the-badge"/>
 </p>
+
+</div>
 
 ---
 
-<h2 align="center">FEATURED PROJECTS</h2>
-
-A collection of applications and development work reflecting my technical interests and practical experience.
+<h2 align="center">🚀 FEATURED PROJECTS</h2>
 
 ### 01. Finance Advisor
+`MOBILE APP` · `FLUTTER` · `FIREBASE`
 
-**Personal Finance Management Application**
+A personal finance management application developed to help users organize budgets, track expenses, and understand their spending through category-wise financial analysis.
 
-A finance management application developed to help users organize budgets, track expenses, and understand their spending through category-wise financial analysis.
-
-**Development Highlights**
-
-- Developed budget tracking and expense management functionality.
-- Implemented category-wise financial analysis.
-- Worked on application design and user-friendly dashboard development.
-- Used Firebase Firestore for data management.
-- Applied object-oriented programming principles.
-- Worked on application implementation, testing, and debugging.
-
-**Technologies**
-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase_Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
-
-**Repository:** https://github.com/Dariusjoe2003/finance_advisor
+- **Key Features:** Budget tracking, expense management, and category-wise financial analytics with a clean, user-friendly dashboard.
+- **Architecture & Data:** Built using object-oriented programming principles with **Firebase Firestore** for real-time data storage.
+- **Links:** [🔗 View Project Repository](https://github.com/Dariusjoe2003/finance_advisor)
 
 ---
 
 ### 02. Personal Portfolio
-
-**Personal Website & Project Showcase**
+`WEB` · `HTML5` · `GITHUB PAGES`
 
 A personal portfolio website designed to showcase my development projects, technical skills, background, and contact information.
 
-**Development Highlights**
-
-- Designed and developed a personal portfolio website.
-- Organized projects and technical skills into dedicated sections.
-- Created a professional online presence.
-- Focused on clean presentation and user-friendly navigation.
-
-**Technologies**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-
-**Live Portfolio:** https://dariusjoe2003.github.io/PORTFOLIO/  
-**Repository:** https://github.com/Dariusjoe2003/PORTFOLIO
+- **Key Features:** Dedicated sections for projects and skills with clean presentation and intuitive navigation.
+- **Links:** [🌐 Visit Live Portfolio](https://dariusjoe2003.github.io/PORTFOLIO/) | [🔗 View Repository](https://github.com/Dariusjoe2003/PORTFOLIO)
 
 ---
 
 ### 03. TaskMaster App
+`WEB APP` · `JAVASCRIPT`
 
-**Task Management Web Application**
+A lightweight task management web application that allows users to add, complete, and delete tasks, with persistent local browser storage.
 
-A lightweight task management application that allows users to add, complete, and delete tasks, with data stored locally in the browser.
-
-**Technologies**
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-**Repository:** https://github.com/Dariusjoe2003/taskmaster-app
+- **Links:** [🔗 View Repository](https://github.com/Dariusjoe2003/taskmaster-app)
 
 ---
 
 ### 04. Survey Form
+`FRONTEND` · `HTML5` · `CSS3`
 
-**Responsive Survey Form**
+A responsive survey form featuring multiple input types, dropdown menus, radio buttons, and checkboxes styled for clean cross-device rendering.
 
-A responsive survey form built using HTML and CSS, featuring multiple input types, dropdowns, radio buttons, and checkboxes.
-
-**Technologies**
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-**Repository:** https://github.com/Dariusjoe2003/Survey_form
+- **Links:** [🔗 View Repository](https://github.com/Dariusjoe2003/Survey_form)
 
 ---
 
 ### 05. Inloops Assignment
+`SCRIPTING` · `PYTHON`
 
-**Python Development Project**
+A Python development project focused on core programming logic, structured functions, and algorithmic problem-solving.
 
-A Python development assignment focused on core programming logic and problem-solving.
-
-**Technologies**
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-
-**Repository:** https://github.com/Dariusjoe2003/inloops_assignment
+- **Links:** [🔗 View Repository](https://github.com/Dariusjoe2003/inloops_assignment)
 
 ---
 
-<h2 align="center">GITHUB STATISTICS</h2>
-
-An overview of my GitHub activity, coding languages, and development contributions.
+<h2 align="center">📊 GITHUB ANALYTICS</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dariusjoe2003&theme=github" alt="GitHub statistics"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dariusjoe2003&theme=github" alt="Most used languages"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Dariusjoe2003&theme=slateorange" alt="GitHub statistics"/>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Dariusjoe2003&theme=slateorange" alt="Most used languages"/>
 
 <br/><br/>
 
-<img width="65%" src="
+<img width="65%" src="https://streak-stats.demolab.com?user=Dariusjoe2003&hide_border=true&background=1B263B&ring=528B9A&fire=E09F3E&currStreakLabel=E0E1DD&sideLabels=E0E1DD&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=A9BCD0" alt="GitHub contribution streak"/>
+
+<br/><br/>
+
+<img src="https://ghchart.rshah.org/3A5A78/Dariusjoe2003" alt="GitHub contribution graph" width="100%"/>
+
+</div>
+
+---
+
+<h2 align="center">🤝 LET'S CONNECT</h2>
+
+<div align="center">
+
+I'm always open to learning new technologies, exploring software development opportunities, and collaborating on meaningful projects.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/darius-joe-a43867293">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://dariusjoe2003.github.io/PORTFOLIO/">
+<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-3A5A78?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="mailto:dariusjoe9495@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-528B9A?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+**⭐ Thanks for visiting my GitHub profile!**  
+*Always learning. Always building. Always improving.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:1B263B,50:3A5A78,100:528B9A" width="100%" alt="Footer banner"/>
+
+</div>
